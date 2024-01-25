@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.5*%
+%TF.CreationDate,2024-01-17T23:55:02+05:30*%
+%TF.ProjectId,mcu datalogger,6d637520-6461-4746-916c-6f676765722e,1*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.5) date 2024-01-17 23:55:02*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X102311200Y-66116200D02*
+X152577800Y-66116200D01*
+X152577800Y-98120200D01*
+X102311200Y-98120200D01*
+X102311200Y-66116200D01*
+M02*

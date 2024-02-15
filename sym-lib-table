@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "EG1218_1_sw")(type "KiCad")(uri "${KIPRJMOD}/EG1218.kicad_sym")(options "")(descr ""))
-  (lib (name "EG1218_sw")(type "KiCad")(uri "C:/Users/Poojaa Rangaiah/Desktop/KiCad/EG1218/EG1218.kicad_sym")(options "")(descr ""))
-)

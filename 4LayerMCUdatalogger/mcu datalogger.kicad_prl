@@ -38,6 +38,7 @@
       9,
       10,
       11,
+      12,
       13,
       15,
       16,
@@ -63,11 +64,11 @@
       39,
       40
     ],
-    "visible_layers": "fffffef_7fffffff",
-    "zone_display_mode": 1
+    "visible_layers": "fffffff_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
-    "filename": "Power supply pcb.kicad_prl",
+    "filename": "mcu datalogger.kicad_prl",
     "version": 3
   },
   "project": {

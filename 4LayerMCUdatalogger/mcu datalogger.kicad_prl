@@ -1,6 +1,10 @@
 {
   "board": {
+<<<<<<< HEAD
     "active_layer": 0,
+=======
+    "active_layer": 2,
+>>>>>>> 4layer
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -38,7 +42,10 @@
       9,
       10,
       11,
+<<<<<<< HEAD
       12,
+=======
+>>>>>>> 4layer
       13,
       15,
       16,

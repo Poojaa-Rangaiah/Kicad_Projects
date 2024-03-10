@@ -1968,6 +1968,12 @@
   (gr_text "Copper layer count : 2\n\nBoard Overall dimension : 32.3 mm x 50.47 mm\n\nMin track/spacing : 0.2000 mm / 0.0000 mm\n\nCopper finish : None\n\nCastellated pads : No" (at 177.165 87.3252) (layer "Edge.Cuts") (tstamp 04e3f101-4ecb-44b3-b0ce-af691bc36c12)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
+<<<<<<< HEAD
+=======
+  (gr_text "Board thickness : 1.6 mm\n\n\n\nMin hole diameter : 0.3000 mm\n\nImpedance control : No\n\nPlated board edge : No" (at 219.1258 87.1982) (layer "Edge.Cuts") (tstamp c1bf0529-8aaf-4945-84b1-404598fd3d1b)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+  )
+>>>>>>> 4layer
   (gr_text "BOARD CHARACTISTICS :" (at 176.6824 70.485) (layer "Edge.Cuts") (tstamp d29fe016-69b6-4c27-a232-6e57ee8fb97f)
     (effects (font (size 1.5 2) (thickness 0.375) bold) (justify left bottom))
   )

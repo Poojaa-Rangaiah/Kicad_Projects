@@ -1006,15 +1006,15 @@
 			(pintype "passive")
 			(uuid "bd9c628e-25af-4185-a8ee-d2a3faa9e193")
 		)
-		(model ":KICAD7_3DMODEL_DIR:Crystal.3dshapes/Crystal_SMD_0603-4Pin_6.0x3.5mm.wrl"
+		(model "${KIPRJMOD}/Footprints/CM9V-T1A-32.768KHZ-7PF-100PPM-TA-QC.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
 			(scale
-				(xyz 1 1 1)
+				(xyz 5.6 2.8 3.7)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)
@@ -2101,7 +2101,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "4fb36cb3-3f1c-4885-8dda-2aa3bdae921b")
 		)
-		(model ":KICAD7_3DMODEL_DIR:Package_QFP.3dshapes/TQFP-32_7x7mm_P0.8mm.step"
+		(model "${KIPRJMOD}/Footprints/ATMEGA328P-AU.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2109,7 +2109,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)
@@ -2703,7 +2703,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "d3e7850b-e99e-4d9b-ba71-52de1589fc22")
 		)
-		(model ":KICAD7_3DMODEL_DIR:Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl"
+		(model "${KIPRJMOD}/Footprints/DS1337S.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2711,7 +2711,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)
@@ -5640,15 +5640,15 @@
 			(pintype "passive")
 			(uuid "07924538-7e00-4f95-bb60-8877760f5320")
 		)
-		(model ":KICAD7_3DMODEL_DIR:Crystal.3dshapes/Crystal_SMD_0603-4Pin_6.0x3.5mm.wrl"
+		(model "${KIPRJMOD}/Footprints/CM9V-T1A-32.768KHZ-7PF-100PPM-TA-QC.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
 			(scale
-				(xyz 1 1 1)
+				(xyz 5.6 2.8 3.7)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)

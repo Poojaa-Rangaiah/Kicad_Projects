@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CSI_Connector")(type "KiCad")(uri "/home/poojaa/Kicad/Connector/527461671")(options "")(descr "Connector_FFC-FPC_01X16-2MP_TE:0527461671_0.50mm_bottom-contact_Horizontal"))
+)

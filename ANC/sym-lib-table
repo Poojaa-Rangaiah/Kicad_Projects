@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ANC")(type "KiCad")(uri "${KIPRJMOD}/ANC.kicad_sym")(options "")(descr ""))
+)

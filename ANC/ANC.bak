@@ -602,7 +602,7 @@
 			)
 		)
 		(property "Footprint" "ICS-40730:MIC_ICS-40730"
-			(at 0 0 0)
+			(at 0 13.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -630,7 +630,7 @@
 			)
 		)
 		(property "MF" "TDK InvenSense"
-			(at 0 0 0)
+			(at -0.254 13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -640,7 +640,7 @@
 			)
 		)
 		(property "Description_1" "\n25Hz ~ 20kHz Analog Microphone MEMS (Silicon) 1.5V ~ 3.63V Noise Cancelling (-32dB ±2dB @ 124dB SPL) Solder Pads\n"
-			(at 0 0 0)
+			(at -1.524 13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -650,7 +650,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 0 0 0)
+			(at -0.254 13.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -660,7 +660,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 0 0 0)
+			(at 0 13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -670,7 +670,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/ICS-40730/TDK+InvenSense/view-part/?ref=eda"
-			(at 0 0 0)
+			(at 0 13.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -680,7 +680,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 0 0 0)
+			(at -0.254 13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -690,7 +690,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ICS-40730/TDK+InvenSense/view-part/?ref=snap"
-			(at 0 0 0)
+			(at 0.762 13.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -700,7 +700,7 @@
 			)
 		)
 		(property "MP" "ICS-40730"
-			(at 0 0 0)
+			(at 0 13.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -710,7 +710,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4727914&manufacturer=TDK InvenSense&part_name=ICS-40730&search_term=none"
-			(at 0 0 0)
+			(at 0.762 13.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -720,7 +720,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 0 0 0)
+			(at 0.762 13.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -730,7 +730,7 @@
 			)
 		)
 		(property "MANUFACTURER" "TDK"
-			(at 0 0 0)
+			(at 0 13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -769,10 +769,30 @@
 					)
 				)
 			)
-			(pin output line
-				(at 12.7 0 180)
+			(pin power_in line
+				(at 12.7 -5.08 180)
 				(length 5.08)
-				(name "OUTPUT-"
+				(name "GND"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+		)
+		(symbol "ICS-40730_1_0"
+			(pin output line
+				(at 12.7 2.54 180)
+				(length 5.08)
+				(name "OUTPUT+"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -788,9 +808,9 @@
 				)
 			)
 			(pin output line
-				(at 12.7 2.54 180)
+				(at 12.7 0 180)
 				(length 5.08)
-				(name "OUTPUT+"
+				(name "OUTPUT-"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -798,24 +818,6 @@
 					)
 				)
 				(number "3"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 12.7 -5.08 180)
-				(length 5.08)
-				(name "GND"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "4"
 					(effects
 						(font
 							(size 1.016 1.016)

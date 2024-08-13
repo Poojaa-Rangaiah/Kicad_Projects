@@ -12,4 +12,7 @@
   (lib (name "RC0402FR-070RL")(type "KiCad")(uri "${KIPRJMOD}/Symbols/RC0402FR-070RL")(options "")(descr ""))
   (lib (name "282836-4")(type "KiCad")(uri "${KIPRJMOD}/Symbols/282836-4")(options "")(descr ""))
   (lib (name "MAX98090AETL_T")(type "KiCad")(uri "${KIPRJMOD}/Symbols/MAX98090AETL_T")(options "")(descr ""))
+  (lib (name "0201ZD222KAT2A")(type "KiCad")(uri "${KIPRJMOD}/Symbols/0201ZD222KAT2A")(options "")(descr ""))
+  (lib (name "MURATA_GRM155C71C105KE11J")(type "KiCad")(uri "${KIPRJMOD}/Symbols/MURATA_GRM155C71C105KE11J")(options "")(descr ""))
+  (lib (name "ASFL1_12_288MHZ_EC_T")(type "KiCad")(uri "${KIPRJMOD}/Symbols/ASFL1_12_288MHZ_EC_T")(options "")(descr ""))
 )
